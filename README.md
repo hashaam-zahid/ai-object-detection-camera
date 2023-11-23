@@ -1,4 +1,5 @@
 # AI Object Detection Camera By [ Hashaam Zahid ]
+![Screenshot](https://github.com/hashaam-zahid/ai-object-detection-camera/blob/master/template/assets/images/ai-camera.png?raw=true)
 
 This project features a real-time object detection camera powered by Google TensorFlow AI JavaScript library along with custom JavaScript functions and libraries. It includes responsive design using Bootstrap, Node.js for backend support, and the ability to create lists in real-time based on detected objects. The camera also supports FPS settings and provides spoken feedback when detecting objects.
 
